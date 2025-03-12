@@ -1,7 +1,7 @@
 # Veille Technologique - BTS SIO  
 ### Réalisé par :  
 - **Ludo Mastantuono**  
-- **Rémi Bortolus**  
+- **Rémi Bortolus**  (**Il est parti en cours de première année**)
 - **Evan Etheve**  
 
 ---
